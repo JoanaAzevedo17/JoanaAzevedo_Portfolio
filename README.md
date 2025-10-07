@@ -26,29 +26,32 @@
 
 **Summary:**
 
-A Python-based project focused on reading, processing, and extracting information from textual files to understand and analyze language patterns.</br>
-This project is the final report for the course Foundations and Natural Language Processing (FPLN), part of the first year of the Digital Humanities Master's program at the University of Minho.</br>
-The goal was to create a Python interface capable of analyzing a website and extracting predefined information.</br>
-For this project, we selected six recipes from the 24 Kitchen website, which were saved as .txt files for analysis.</br>
-The project was carried out with guidance from Professor José João, who assisted with technical issues and provided feedback on the overall approach.
+This project was developed for the course Foundations and Natural Language Processing (FPLN).</br>
+It focused on building a Python interface capable of reading, processing, and extracting information from textual files to explore language patterns and analyze website data.</br>
+For this project, six recipes were selected from the 24 Kitchen website and saved as .txt files for detailed analysis.</br>
+The project was carried out with guidance from Professor José João, who provided support with technical challenges and feedback on the overall approach.
 
 **Main Objectives:**
 
 - Consolidate knowledge from the Natural Language Processing course.
-- Develop a program capable of processing multiple text files.
-- Implement analysis metrics for text content.
+- Develop a Python program capable of processing multiple text files and extracting structured information.
+- Implement textual analysis metrics, including word frequency, line count, sentence length, proper nouns, and shared vocabulary.
+- Enable exporting of analyzed data in multiple formats (JSON, CSV, XML) for further use.
 
 **Key Features and Tasks:**
 
-- Reading and extracting key information from text files.
-- Calculating word frequency, line count, and most common words.
-- Analyzing proper nouns, average sentence length, and shared vocabulary.
+- Extracted structured information from .txt files, including recipe title, author, ingredients, and preparation steps.
+- Implemented web scraping from the 24 Kitchen website using *requests* and *BeautifulSoup*.
+- Calculated word counts, line counts, frequency of user-selected words, top 10 most common words, proper nouns, and average sentence length.
+- Identified common words across multiple texts, excluding simple stopwords and numbers.
+- Built a terminal-based interactive interface allowing users to select files, run analyses, and export results.
 
 **My Role and Contributions:**
 
-- Developed Python scripts using re and other modules for text processing.
-- Built a command-line interface for user interaction.
-- Exported results to JSON, XML, and CSV formats.
+- Developed Python scripts using *re*, *os*, *csv*, *json*, *xml.etree.ElementTree*, *requests*, *BeautifulSoup*, and *Counter*.
+- Designed and implemented the main program flow and menu-driven interface for user interaction.
+- Created functions for text extraction, analysis, and data export, ensuring modularity and reusability.
+- Managed error handling for file access, web requests, and user inputs.
 
 **Learnings and Outcomes:**
 
