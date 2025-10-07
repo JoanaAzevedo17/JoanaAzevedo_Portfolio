@@ -6,7 +6,7 @@
 
 ## Index:
 
-1. Project 1 - Text Processing and Analysis with Python
+1. Project 1 - Text Processing and Analysis with Python [Project 1 - Text Processing and Analysis with Python](#Project-1---Text-Processing-and-Analysis-with-Python)
 2. Project 2 - Implementing Text Markup and Validation in XML and DTD
 3. Project 3 - Transcription and Modernization of Text into Functional HTML
 4. Project 4 - Exploring Syntax, Semantics, and Readability through Corpus Analysis
