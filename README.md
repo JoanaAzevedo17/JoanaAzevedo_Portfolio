@@ -102,7 +102,9 @@ The project focused on the digital modeling and markup of *Memorial de Varios Si
 
 **Summary:**
 
-Manual transcription and modernization of a historical text, converting it into fully functional HTML with proper structure and tags. The project also involved normalizing spelling, formatting, and ensuring web-ready readability.
+This project was developed for the course Digital Editing and Analysis.</br>
+It focused on the manual transcription and modernization of a historical text, transforming it into a fully functional, semantically structured HTML document.</br>
+It also involved normalizing spelling, refining formatting, and ensuring web-ready readability.
 
 **Main Objectives:**
 
@@ -114,7 +116,7 @@ Manual transcription and modernization of a historical text, converting it into 
 
 - Applied HTML structure including headings, paragraphs, lists, and links where appropriate.
 - Corrected spelling and modernized outdated expressions.
-- Ensured the HTML code is clean, functional, and visually coherent in browsers.
+- Ensured the HTML code is clean, functional, and visually coherent.
 
 **My Role and Contributions:**
 
