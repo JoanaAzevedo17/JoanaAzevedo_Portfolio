@@ -1,0 +1,66 @@
+<!ELEMENT TEI (teiHeader, text)>
+<!ATTLIST TEI xmlns CDATA #IMPLIED>
+
+<!ELEMENT teiHeader (fileDesc)>
+<!ELEMENT fileDesc (titleStmt, publicationStmt, sourceDesc)>
+
+<!ELEMENT titleStmt (title, author, respStmt)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title type CDATA #IMPLIED>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT respStmt (resp, name+)>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT publicationStmt (p+)>
+<!ELEMENT p (#PCDATA | intervention | locus | choice | orig | reg | prep_med | ingredient | condition | precaution | dosage | excipient | duration | citation | description_animal | italic | foreign | geoName | description_plant | ew | animal | lb | pc | drug)*>
+
+<!ELEMENT sourceDesc (bibl)>
+<!ELEMENT bibl (title+, author, date)>
+<!ELEMENT date (#PCDATA)>
+
+<!ELEMENT text (body)>
+<!ELEMENT body (#PCDATA | pb | div)*>
+
+<!ELEMENT pb EMPTY>
+<!ATTLIST pb n CDATA #REQUIRED>
+<!ELEMENT div (#PCDATA | figure | head | p | pb)*>
+
+<!ELEMENT figure (graphic, figDesc)>
+<!ELEMENT graphic EMPTY>
+<!ATTLIST graphic url CDATA #REQUIRED>
+<!ELEMENT figDesc (#PCDATA)>
+
+<!ELEMENT head (#PCDATA | hi)*>
+
+<!ELEMENT hi (#PCDATA | ingredient | animal | geoName | choice | orig | reg)*>
+
+<!ELEMENT pc (#PCDATA)>
+<!ELEMENT intervention (#PCDATA | dosage | prep_med | duration | pc | locus | condition | ingredient | choice | lb | citation | ew)*>
+<!ELEMENT locus (#PCDATA | lb)*>
+
+<!ELEMENT choice (orig| reg | geoName)*>
+<!ELEMENT orig (#PCDATA | pc)*>
+<!ELEMENT reg (#PCDATA | pc)*>
+
+<!ELEMENT cure (#PCDATA | choice)*>
+<!ELEMENT prep_med (#PCDATA | ingredient | dosage | pc | lb | precaution | intervention | choice | duration)*>
+<!ELEMENT ingredient (#PCDATA | animal | locus | choice | geoName | lb | dosage | drug)*>
+<!ELEMENT condition (#PCDATA | lb | locus | pc)*>
+<!ELEMENT precaution (#PCDATA | lb | ingredient | pc)*>
+<!ELEMENT dosage (#PCDATA | ingredient | choice | pc | lb | excipient)*>
+<!ELEMENT excipient (#PCDATA)>
+<!ELEMENT duration (#PCDATA | choice | cure | pc | lb)*>
+<!ELEMENT citation (#PCDATA | italic)*>
+<!ELEMENT description_animal (#PCDATA | geoName | lb)*>
+
+<!ELEMENT italic (#PCDATA | foreign)*>
+<!ELEMENT foreign (#PCDATA)>
+<!ATTLIST foreign xml:lang CDATA #REQUIRED>
+
+<!ELEMENT geoName (#PCDATA | lb)*>
+<!ELEMENT description_plant (#PCDATA | lb | pc)*>
+<!ELEMENT ew (#PCDATA)>
+<!ELEMENT animal (#PCDATA)>
+<!ELEMENT drug (#PCDATA)>
+<!ELEMENT lb EMPTY>
