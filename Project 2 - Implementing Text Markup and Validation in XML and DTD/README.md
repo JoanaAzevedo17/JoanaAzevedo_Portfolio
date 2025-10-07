@@ -2,7 +2,8 @@
 
 **Summary:**
 
-A project focused on the digital modeling and markup of *Memorial de Varios Simplices* by João Curvo Semmedo, creating structured text documents using XML and defining validation rules with DTD.
+This project was developed for the course of Digital Editing and Analysis.</br>
+The project focused on the digital modeling and markup of *Memorial de Varios Simplices* by João Curvo Semmedo, creating structured text documents using XML and defining validation rules with DTD.
 
 **Main Objectives:**
 
