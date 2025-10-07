@@ -22,7 +22,7 @@
 
 -------
 
-### Project 1 - Text Processing and Analysis with Python
+## Project 1 - Text Processing and Analysis with Python
 
 **Summary:**
 
@@ -57,7 +57,7 @@ The project was carried out with guidance from Professor José João, who assist
 
 ---
 
-### Project 2 - Implementing Text Markup and Validation in XML and DTD
+## Project 2 - Implementing Text Markup and Validation in XML and DTD
 
 **Summary:**
 
@@ -87,7 +87,7 @@ A project focused on creating structured text documents using XML and defining v
 
 ---
 
-### Project 3 - Transcription and Modernization of Text into Functional HTML
+## Project 3 - Transcription and Modernization of Text into Functional HTML
 
 **Summary:**
 
@@ -119,7 +119,7 @@ Manual transcription and modernization of a historical text, converting it into 
 
 ---
 
-### Project 4 - Exploring Syntax, Semantics, and Readability through Corpus Analysis
+## Project 4 - Exploring Syntax, Semantics, and Readability through Corpus Analysis
 
 **Summary:**
 
@@ -149,7 +149,7 @@ A corpus-based analysis of texts comparing syntactic, semantic, and readability 
 
 ---
 
-### Project 5 - Transcribing and Analyzing 18th-Century Manuscripts
+## Project 5 - Transcribing and Analyzing 18th-Century Manuscripts
 
 **Summary:**
 
@@ -179,7 +179,7 @@ Manual transcription and linguistic analysis of 18th-century Portuguese manuscri
 - Learned to manage and analyze historical text corpora.
 ----
 
-### Project 6 - Corpus Construction and Linguistic Analysis of Family Interviews
+## Project 6 - Corpus Construction and Linguistic Analysis of Family Interviews
 
 **Summary:**
 
@@ -209,7 +209,7 @@ Collection, transcription, cleaning, and linguistic analysis of interviews with 
 
 ---
 
-### Project 7 - Educational Mobile App Prototype Designed in Figma
+## Project 7 - Educational Mobile App Prototype Designed in Figma
 
 **Summary:**
 
@@ -242,7 +242,7 @@ Through quizzes, mini-games, and exploratory features, the app promotes active l
 
 ---
 
-### Project 8 - Development of an Educational Game with Artificial Intelligence
+## Project 8 - Development of an Educational Game with Artificial Intelligence
 
 **Summary:**
 
@@ -272,7 +272,7 @@ Creation of an AI-powered educational game to facilitate interactive learning.
 
 ---
 
-### Project 9 - Web Design and Content Management for Conference Platforms with WordPress
+## Project 9 - Web Design and Content Management for Conference Platforms with WordPress
 
 **Summary:**
 
@@ -302,7 +302,7 @@ Development of three websites for academic conferences using WordPress, focusing
 
 ---
 
-### Project 10 - Video Editing and Production of a Carpentry Lesson
+## Project 10 - Video Editing and Production of a Carpentry Lesson
 
 **Summary:**
 
@@ -332,14 +332,16 @@ Filming and editing short videos of a carpentry lesson, producing a final educat
 
 ---
 
-### Project 11 - 
+## Project 11 - 
 
 
 ---
 
-### Project 12- 
+## Project 12- 
 
 
 ---
 
-#### Project 13 - Building a Learning Platform: Educational Mobile App Startup
+### Project 13 - Building a Learning Platform: Educational Mobile App Startup
+
+---
