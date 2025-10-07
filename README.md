@@ -15,7 +15,7 @@
 7. [Project 7 - Educational Mobile App Prototype Designed in Figma](#Project-7---Educational-Mobile-App-Prototype-Designed-in-Figma)
 8. [Project 8 - Development of an Educational Game with Artificial Intelligence](#Project-8---Development-of-an-Educational-Game-with-Artificial-Intelligence)
 9. [Project 9 - Web Design and Content Management for Conference Platforms with WordPress](#Project-9---Web-Design-and-Content-Management-for-Conference-Platforms-with-WordPress)
-10. [Project 10 - Video Editing and Production of a Carpentry Lesson](#Project-10---Video-Editing-and-Production-of-a-Carpentry-Lesson)
+10. [Project 10 - Video Editing and Production of a Carpentry Lesson with DaVinci Resolve](#Project-10---Video-Editing-and-Production-of-a-Carpentry-Lesson-with-DaVinci-Resolve)
 11. [Project 11 -Introduction to Artificial Intelligence Project](#Project-11---)
 12. [Project 12 - Advanced Translation Tools Project](#Project-12---)
 13. [Project 13 - Development of an Educational Mobile App Startup](#Project-13---Development-of-an-Educational-Mobile-App-Startup)
@@ -315,11 +315,12 @@ Development of three websites for academic conferences using WordPress, focusing
 
 ---
 
-## Project 10 - Video Editing and Production of a Carpentry Lesson
+## Project 10 - Video Editing and Production of a Carpentry Lesson with DaVinci Resolve
 
 **Summary:**
 
-Filming and editing short videos of a carpentry lesson, producing a final educational video using DaVinci Resolve.
+This project was developed for an extracurricular course in Video Editing for Digital Environments.</br>
+The work consisted of recording and editing footage from a carpentry lesson to create a cohesive educational video using DaVinci Resolve.
 
 **Main Objectives:**
 
