@@ -334,14 +334,42 @@ Filming and editing short videos of a carpentry lesson, producing a final educat
 
 ## Project 11 - 
 
+**Summary:**
+
+**Main Objectives:**
+
+**Key Features and Tasks:**
+
+**My Role and Contributions:**
+
+**Learnings and Outcomes:**
 
 ---
 
 ## Project 12- 
 
+**Summary:**
+
+**Main Objectives:**
+
+**Key Features and Tasks:**
+
+**My Role and Contributions:**
+
+**Learnings and Outcomes:**
 
 ---
 
 ### Project 13 - Building a Learning Platform: Educational Mobile App Startup
+
+**Summary:**
+
+**Main Objectives:**
+
+**Key Features and Tasks:**
+
+**My Role and Contributions:**
+
+**Learnings and Outcomes:**
 
 ---
