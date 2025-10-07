@@ -55,8 +55,11 @@ The project was carried out with guidance from Professor José João, who provid
 
 **Learnings and Outcomes:**
 
--Gained hands-on experience with Python text processing.
--Learned to analyze textual patterns and implement basic NLP metrics
+- Gained practical experience in Python programming for text processing and web scraping.
+- Learned to apply natural language processing techniques to real-world textual data.
+- Developed skills in organizing, structuring, and exporting data for further analysis.
+- Experienced the benefits of automating text analysis, improving efficiency over manual methods.
+- Enhanced understanding of project workflow, from data collection and processing to analysis and reporting.
 
 ---
 
