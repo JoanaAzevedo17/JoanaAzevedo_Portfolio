@@ -10,7 +10,7 @@
 2. [Project 2 - Implementing Text Markup and Validation in XML and DTD](#Project-2---Implementing-Text-Markup-and-Validation-in-XML-and-DTD)
 3. [Project 3 - Transcription and Modernization of Text into Functional HTML](#Project-3---Transcription-and-Modernization-of-Text-into-Functional-HTML)
 4. [Project 4 - Exploring Syntax, Semantics, and Readability through Corpus Analysis](#Project-4---Exploring-Syntax,-Semantics,-and-Readability-through-Corpus-Analysis)
-5. [Project 5 - Transcribing and Analyzing 18th-Century Manuscripts: Orthographic and Lexical Variations](#Project-5---Transcribing-and-Analyzing-18th-Century-Manuscripts:-Orthographic-and-Lexical-Variations)
+5. [Project 5 - Transcribing and Analyzing 18th-Century Manuscripts](#Project-5---Transcribing-and-Analyzing-18th-Century-Manuscripts)
 6. [Project 6 - Corpus Construction and Linguistic Analysis of Family Interviews](#Project-6---Corpus-Construction-and-Linguistic-Analysis-of-Family-Interviews)
 7. [Project 7 - Educational Mobile App Prototype Designed in Figma](#Project-7---Educational-Mobile-App-Prototype-Designed-in-Figma)
 8. [Project 8 - Development of an Educational Game with Artificial Intelligence](#Project-8---Development-of-an-Educational-Game-with-Artificial-Intelligence)
