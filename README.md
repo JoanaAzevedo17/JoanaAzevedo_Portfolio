@@ -18,7 +18,7 @@
 10. [Project 10 - Video Editing and Production of a Carpentry Lesson](#Project-10---Video-Editing-and-Production-of-a-Carpentry-Lesson)
 11. [Project 11 -Introduction to Artificial Intelligence Project](#Project-11---)
 12. [Project 12 - Advanced Translation Tools Project](#Project-12---)
-13. [Project 13 - Building a Learning Platform: Educational Mobile App Startup](#Project-13---Building-a-Learning-Platform:-Educational-Mobile-App-Startup)
+13. [Project 13 - Development of an Educational Mobile App Startup](#Project-13---Development-of-an-Educational-Mobile-App-Startup)
 
 -------
 
@@ -360,7 +360,7 @@ Filming and editing short videos of a carpentry lesson, producing a final educat
 
 ---
 
-### Project 13 - Building a Learning Platform: Educational Mobile App Startup
+### Project 13 - Development of an Educational Mobile App Startup
 
 **Summary:**
 
