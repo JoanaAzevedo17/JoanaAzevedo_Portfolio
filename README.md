@@ -1,5 +1,6 @@
-# Joana Azevedo Portfolio
+# Portfolio Joana Azevedo
 
+**Hi, I am Joana and this is my Portfolio**
 **Master's in Digital Humanities at Minho University in Portugal** 
 
 -------------
