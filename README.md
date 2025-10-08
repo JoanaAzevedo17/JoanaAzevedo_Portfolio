@@ -135,29 +135,41 @@ It also involved normalizing spelling, refining formatting, and ensuring web-rea
 
 **Summary:**
 
-A corpus-based analysis of texts comparing syntactic, semantic, and readability features across different types of documents.
+This project was developed for the course of Corpora in the Digital Humanities.</br>
+It is a corpus-based study comparing syntactic, lexical, semantic, and readability features between scientific research articles and their simplified summaries.</br>
+The analysis contrasted human-written adaptations (Frontiers for Young Minds) with AI-generated versions created by ChatGPT, aiming to understand how syntax and semantics differ across levels of simplification.
 
 **Main Objectives:**
 
-- Study linguistic differences in various corpora.
-- Analyze readability metrics and syntactic patterns.
-- Compare lexical diversity across texts.
+- Compare linguistic structures between original scientific abstracts and simplified summaries.
+- Evaluate syntactic complexity, lexical diversity, and semantic similarity.
+- Assess readability and sentiment differences between human and AI-generated texts.
+- Explore how computational metrics can model linguistic simplification.
 
 **Key Features and Tasks:**
 
-- Calculated sentence length, lexical diversity (TTR), and semantic similarity.
-- Created visualizations including boxplots and scatterplots.
-- Identified patterns in syntax, semantics, and readability.
+- Processed and structured data from human (Young Minds) and AI (ChatGPT) corpora.
+- Calculated key metrics:
+  - Sentence length and connector frequency (syntactic features).
+  - Lexical diversity (TTR) and semantic similarity.
+  - Flesch readability index and sentiment polarity.
+- Classified texts by syntactic, lexical, and semantic levels (Simple, Intermediate, Complex).
+- Visualized distributions using boxplots, scatterplots, and bar charts.
+- Applied Python libraries: *Pandas*, *Matplotlib*, *Seaborn*, *TextBlob*, *NLTK*, and *Altair*.
 
 **My Role and Contributions:**
 
-- Processed text corpora using Python and Pandas.
-- Generated metrics and visualized results with Matplotlib and Seaborn.
+- Conducted metric-based comparisons between original, human, and AI-generated texts.
+- Implemented syntactic and lexical classification algorithms.
+- Generated visual analytics to interpret complexity, sentiment, and readability patterns.
+- Collaborated on notebook development and dataset preparation using Python and Jupyter.
 
 **Learnings and Outcomes:**
 
-- Developed skills in corpus analysis and visualization.
-- Learned to interpret syntactic and semantic patterns in texts.
+- Gained experience in computational linguistics and corpus-based text analysis.
+- Learned to integrate syntactic, lexical, semantic, and sentiment metrics for comparative studies.
+- Understood how simplification strategies differ between human and AI approaches.
+- Strengthened skills in Python-based data analysis and visualization for Digital Humanities research.
 
 ---
 
