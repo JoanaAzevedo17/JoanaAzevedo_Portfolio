@@ -1,6 +1,6 @@
 # Portfolio Joana Azevedo
 
-**Hi, I am Joana and this is my Portfolio**
+**Hi, I am Joana and this is my Portfolio**</br>
 **Master's in Digital Humanities at Minho University in Portugal** 
 
 -------------
